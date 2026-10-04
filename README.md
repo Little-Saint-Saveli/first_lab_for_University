@@ -147,4 +147,5 @@ python -m unittest discover tests -v
 ## Автор
 
 Студент 2 курса  
-Итоговая аттестация по Python
+Little-Saint-Saveliy
+IT-451
